@@ -1,0 +1,19 @@
+
+
+Retested bug fixes
+Completed designing test cases for ITSM-2595
+Participated in Test Automation Community Weekly Sync Up
+Participated in SNOW automation follow up discussion.
+started to study ITSM-2616
+
+
+Completed ITSM-2616
+Participated in Test Cases Review - Sprint 3
+Participated in Internal discussion | Sprint stories clarifications
+PArticipated in Internal discussion | Sprint stories clarifications
+
+
+Paricipate in Brainstorming session on CMDB Part 2
+Revisit CMDB KTs and refer Documents
+Study ATF
+Study Robot framework (Community work)
